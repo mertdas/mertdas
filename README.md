@@ -1,7 +1,5 @@
 ### Hi there!
 
-Feel free to leave feedback. You can also find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
-
 ---
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
