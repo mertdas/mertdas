@@ -1,5 +1,6 @@
 ### Hi there!
 
+I'm currently working on red team ops and maldev 
 ---
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
